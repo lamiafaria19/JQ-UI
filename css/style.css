@@ -1,0 +1,138 @@
+header{
+	padding:20px 0;
+	background-color:#c7ecee;
+	
+}
+.logo{
+	font-size:25px;
+}
+.menu{
+	font-size:25px;
+}
+.menu ul li a{
+	margin-left:20px;
+	color:#333333 !important;
+	transition:.5s;
+}
+.menu ul li a:hover{
+	color:#FFFFFF !important;
+}
+.interaction{
+	padding:50px 0;
+	background-color:#dfe6e9;
+	background-size:cover;
+	overflow:hidden;
+}
+.interaction h3{
+	margin-top:50px;
+}
+#draggable { 
+	width: 150px; 
+	height: 150px;
+	padding: 0.5em; 
+}
+#drag {
+	width: 100px; 
+	height: 100px;
+	padding: 0.5em;
+	float: left;
+	margin: 10px 10px 10px 0;
+}
+#droppable {
+	width: 150px; 
+	height: 150px;
+	padding: 0.5em;
+	float: left;
+	margin: 10px; 
+}
+.widget{
+	padding:50px 0;
+	background-color:#6a89cc;
+}
+.widget h3{
+	margin-top:50px;
+}
+.effect{
+	padding:50px 0;
+	background-color:#82ccdd;
+
+}
+.effect h3{
+	margin-top:50px;
+}
+.toggler {
+	width: 500px; 
+	height: 200px; 
+	position: relative; 
+}
+#button { 
+	padding: .5em 1em; 
+	text-decoration: none; 
+}
+#effects { 
+	width: 240px; 
+	height: 180px; 
+	padding: 0.4em; 
+	position: relative; 
+	background: #fff; 
+}
+#effects h4 { 
+	margin: 0; 
+	padding: 0.4em; 
+	text-align: center; 
+}
+.toggle { 
+	width: 500px; 
+	height: 200px; 
+}
+#btn { 
+	padding: .5em 1em; 
+	text-decoration: none; 
+}
+#hidden { 
+	width: 240px; 
+	height: 190px; 
+	padding: 0.4em; 
+	position: relative; 
+}
+#hidden h3 { 
+	margin: 0; 
+	padding: 0.4em; 
+	text-align: center; 
+}
+.utilities{
+	padding:50px 0;
+	background-color:#3c6382;
+
+}
+.utilities h3{
+	margin-top:50px;
+}
+#parent {
+    width: 60%;
+    height: 40px;
+    margin: 10px auto;
+    padding: 5px;
+    border: 1px solid #777;
+    background-color: #fbca93;
+    text-align: center;
+  }
+  .positionable {
+    position: absolute;
+    display: block;
+    right: 0;
+    bottom: 0;
+    background-color: #bcd5e6;
+    text-align: center;
+  }
+  #positionable1 {
+    width: 75px;
+    height: 75px;
+  }
+  #positionable2 {
+    width: 120px;
+    height: 40px;
+  }
+  select, input {
+    margin-left: 15px;
+  }
